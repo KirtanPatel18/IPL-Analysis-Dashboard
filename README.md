@@ -18,19 +18,19 @@ The project focuses on sports analytics and visual storytelling using interactiv
 
 ## Orange Cap Analysis
 
-![Orange Cap](images/orange_cap.png)
+![Orange Cap](IPL-Analysis-Dashboard/images/orange_cap.png)
 
 ---
 
 ## Purple Cap Analysis
 
-![Purple Cap](images/purple_cap.png)
+![Purple Cap](IPL-Analysis-Dashboard/images/purple_cap.png)
 
 ---
 
 ## Team Points Table
 
-![Points Table](images/points_table.png)
+![Points Table](IPL-Analysis-Dashboard/images/points_table.png)
 
 ---
 
