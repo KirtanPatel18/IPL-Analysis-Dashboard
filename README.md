@@ -12,7 +12,7 @@ The project focuses on sports analytics and visual storytelling using interactiv
 
 ## Main Dashboard
 
-![Dashboard Overview]([images/dashboard_overview.png](https://github.com/KirtanPatel18/IPL-Analysis-Dashboard/blob/main/IPL-Analysis-Dashboard/images/dashboard_preview.png))
+![Dashboard Overview](IPL-Analysis-Dashboard/images/dashboard_preview.png)
 
 ---
 
